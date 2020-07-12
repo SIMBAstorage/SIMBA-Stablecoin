@@ -1,4 +1,4 @@
-![SIMBA](logo.png "AKAI")
+![SIMBA](logo.png "SIMBA")
 
 # SIMBA Stablecoin (SIMBA) v02.010
 
